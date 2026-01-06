@@ -28,6 +28,6 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/arturpzol/aws-packer-domoticz.git](https://github.com/arturpzol/aws-packer-domoticz.git)
+git clone https://github.com/arturpzol/aws-packer-domoticz.git
 cd aws-packer-domoticz
 packer build domoticz.pkr.hcl
